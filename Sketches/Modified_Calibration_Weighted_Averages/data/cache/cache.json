@@ -1,0 +1,94 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://arduino.esp8266.com/stable/package_esp8266com_index.json",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Modified_Calibration_Weighted_Averages\\data\\cache\\arduino.esp8266.com\\stable\\package_esp8266com_index.json",
+    "eTag" : "5f270c11-1ccf4",
+    "md5" : "MD5:1ea3e227b03ad7f1e99a3af0eba84a9e",
+    "createdAt" : "2020-08-04T12:25:43.59",
+    "cacheControl" : {
+      "maxAge" : 600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-04T12:35:43.590"
+  }, {
+    "remoteURL" : "https://raw.githubusercontent.com/wiki/tobozo/Arduino/package_deauther_index.json",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Modified_Calibration_Weighted_Averages\\data\\cache\\raw.githubusercontent.com\\wiki\\tobozo\\Arduino\\package_deauther_index.json",
+    "eTag" : "4965d5d6aa197e3e1a54aef62332e6ca4331380513057c945e8116d939d67265",
+    "md5" : "MD5:887dd629bcecf6f4e13b9e412ae3da77",
+    "createdAt" : "2020-08-04T12:25:44.643",
+    "cacheControl" : {
+      "maxAge" : 300,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-04T12:30:44.643"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Modified_Calibration_Weighted_Averages\\data\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "3d2c5eb776c987914f9565b865d56211",
+    "md5" : "MD5:3d2c5eb776c987914f9565b865d56211",
+    "createdAt" : "2020-08-04T12:26:01.838",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-04T16:26:01.838"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Modified_Calibration_Weighted_Averages\\data\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
+    "eTag" : "bdc417257d154a27d0f79f8b0a30c182",
+    "md5" : "MD5:bdc417257d154a27d0f79f8b0a30c182",
+    "createdAt" : "2020-08-04T12:25:51.325",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-04T13:25:51.325"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Modified_Calibration_Weighted_Averages\\data\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "191f822134e2c1d76165c07c02d2377d",
+    "md5" : "MD5:191f822134e2c1d76165c07c02d2377d",
+    "createdAt" : "2020-08-04T12:26:04.008",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-04T16:26:04.008"
+  }, {
+    "remoteURL" : "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Modified_Calibration_Weighted_Averages\\data\\cache\\raw.githubusercontent.com\\espressif\\arduino-esp32\\gh-pages\\package_esp32_index.json",
+    "eTag" : "8ef239c1c73d553b2ae44d035dd1cbf212872112495d42c947edb4a4596073bf",
+    "md5" : "MD5:679997c493a03acebb280957acc01eae",
+    "createdAt" : "2020-08-04T12:25:45.076",
+    "cacheControl" : {
+      "maxAge" : 300,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-04T12:30:45.076"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "C:\\Users\\hp\\Desktop\\Robotics & Circuis\\Meshmerize\\Sketches\\Modified_Calibration_Weighted_Averages\\data\\cache\\downloads.arduino.cc\\packages\\package_index.json",
+    "eTag" : "929e1256b7e2eb00eae6b0fe2e456c8e",
+    "md5" : "MD5:929e1256b7e2eb00eae6b0fe2e456c8e",
+    "createdAt" : "2020-08-04T12:25:49.282",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-08-04T13:25:49.282"
+  } ]
+}
